@@ -1,0 +1,17 @@
+{
+  "baseURL": "https://cpurcelltutor.com",
+  "author": "Catherine Purcell",
+  "description": "Catherine's English Language Tuition Website",
+  "title": "Catherine Purcell, English Tutor",
+  "language": "en",
+  "social": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/#"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/company/#"
+    }
+  ]
+}
